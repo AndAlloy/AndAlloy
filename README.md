@@ -2,6 +2,6 @@
 - 👀 I’m interested in back-end development, Telegram bots and front-end a bit
 - 🌱 I’m currently learning Angular and Microservices
 - 💞️ I’m open for a work at the moment
-- 📫 To reach me, send a mail on:
-<br>kormilo121@gmail.com<hr>
+- 📫 To reach me (e-mail, LinkedIn), visit my site: <a href="https://andalloy.uber.space/">https://andalloy.uber.space</a>
+<hr>
 
