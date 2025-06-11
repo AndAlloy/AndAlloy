@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AndAlloy. I'm a student and Junior Java developer
-- 👀 I’m interested in back-end development, Telegram bots and front-end a bit
-- 🌱 I’m currently learning Angular and Microservices
-- 💞️ Developer in one secret team 👻
-- 📫 To reach me (e-mail, LinkedIn), visit my site: <a href="https://andalloy.uber.space/">https://andalloy.uber.space</a>
-<hr>
-
+- 👋 Hi, I’m @AndAlloy. I'm a Java developer with Master's degree in CS.
+- 👀 I’m interested in back-end development, Angular, NgRx (love Angular Store), Telegram bots (Python, aiogram and even Go lang occasionally) (Orange Pi Zero hosting)
+- 🌱 Running LLMs on NPU using rkllama (Orange Pi 5 Max, 8GB RAM, Rockchip 3588)
+- ✈️ Feel free to reach out (LinkedIn)
